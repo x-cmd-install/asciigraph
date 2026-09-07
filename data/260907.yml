@@ -5,13 +5,13 @@ about:
   head: 3934c9c
   archived: false
   latestVersion: "v0.10.0"
-  collectedAt: 2026-09-07T04:48:14Z
+  collectedAt: 2026-09-07T19:35:49Z
 timeline:
   created: 2018-06-17
   lastCommit: 2026-06-21
   lastRelease: 2026-06-21
 popularity:
-  star: 3090
+  star: 3088
   watcher: 26
   fork: 123
   release: 17
@@ -80,7 +80,7 @@ total:
   commit: 196
 ---
 path: /home/runner/.x-repo/github.com/guptarohit/asciigraph
-collectedAt: 2026-09-07T04:48:15Z
+collectedAt: 2026-09-07T19:35:50Z
 loc:
   Go:
     code: 2608
@@ -108,23 +108,15 @@ total:
   blanks: 501
   files: 21
 ---
-date: "2026-08-24"
+date: "2026-09-07"
 repo:
   name: github.com/guptarohit/asciigraph
   commit: 3934c9cdf72ac4806f3a2ef77004b62d1e236028
 scorecard:
-  version: v5.5.1-0.20260815060127-d1fab88f5463
-  commit: d1fab88f54636ff366076edfc5c239f97b3c8e66
+  version: v5.5.0
+  commit: c395761df6afe1a69e476bc60a013a94bcbc153f
 score: 4.4
 checks:
-  - name: Code-Review
-    score: 2
-    reason: Found 2/10 approved changesets -- score normalized to 2
-    details: null
-  - name: Binary-Artifacts
-    score: 10
-    reason: no binaries found in the repo
-    details: null
   - name: Maintained
     score: 10
     reason: 17 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 10
@@ -133,13 +125,21 @@ checks:
     score: 10
     reason: no dangerous workflow patterns detected
     details: null
+  - name: Code-Review
+    score: 2
+    reason: Found 2/10 approved changesets -- score normalized to 2
+    details: null
+  - name: Binary-Artifacts
+    score: 10
+    reason: no binaries found in the repo
+    details: null
   - name: Token-Permissions
     score: 0
     reason: detected GitHub workflow tokens with excessive permissions
     details:
       - 'Info: topLevel ''pull-requests'' permission set to ''read'': .github/workflows/pr-title.yml:12'
-      - 'Warn: topLevel ''packages'' permission set to ''write'': .github/workflows/release-please.yml:12'
       - 'Warn: topLevel ''contents'' permission set to ''write'': .github/workflows/release-please.yml:9'
+      - 'Warn: topLevel ''packages'' permission set to ''write'': .github/workflows/release-please.yml:12'
       - 'Warn: topLevel ''contents'' permission set to ''write'': .github/workflows/release.yml:12'
       - 'Warn: topLevel ''packages'' permission set to ''write'': .github/workflows/release.yml:13'
       - 'Warn: no topLevel permission defined: .github/workflows/test.yml:1'
@@ -148,17 +148,6 @@ checks:
     score: 0
     reason: no effort to earn an OpenSSF best practices badge detected
     details: null
-  - name: Fuzzing
-    score: 0
-    reason: project is not fuzzed
-    details:
-      - 'Warn: no fuzzer integrations found'
-  - name: License
-    score: 10
-    reason: license file detected
-    details:
-      - 'Info: project has a license file: LICENSE:0'
-      - 'Info: FSF or OSI recognized license: BSD 3-Clause "New" or "Revised" License: LICENSE:0'
   - name: Pinned-Dependencies
     score: 0
     reason: dependency not pinned by hash detected -- score normalized to 0
@@ -192,6 +181,21 @@ checks:
       - 'Info:   0 out of  11 GitHub-owned GitHubAction dependencies pinned'
       - 'Info:   0 out of  14 third-party GitHubAction dependencies pinned'
       - 'Info:   0 out of   1 containerImage dependencies pinned'
+  - name: Fuzzing
+    score: 0
+    reason: project is not fuzzed
+    details:
+      - 'Warn: no fuzzer integrations found'
+  - name: License
+    score: 10
+    reason: license file detected
+    details:
+      - 'Info: project has a license file: LICENSE:0'
+      - 'Info: FSF or OSI recognized license: BSD 3-Clause "New" or "Revised" License: LICENSE:0'
+  - name: Branch-Protection
+    score: -1
+    reason: 'internal error: error during branchesHandler.setup: internal error: some github tokens can''t read classic branch protection rules: https://github.com/ossf/scorecard-action/blob/main/docs/authentication/fine-grained-auth-token.md'
+    details: null
   - name: Signed-Releases
     score: 0
     reason: Project has not signed or included provenance with any releases.
@@ -204,10 +208,6 @@ checks:
       - 'Warn: release artifact v0.9.0 does not have provenance: https://api.github.com/repos/guptarohit/asciigraph/releases/302676021'
       - 'Warn: release artifact v0.8.1 does not have provenance: https://api.github.com/repos/guptarohit/asciigraph/releases/294385892'
       - 'Warn: release artifact v0.7.3 does not have provenance: https://api.github.com/repos/guptarohit/asciigraph/releases/182069804'
-  - name: Branch-Protection
-    score: -1
-    reason: 'internal error: error during branchesHandler.setup: internal error: some github tokens can''t read classic branch protection rules: https://github.com/ossf/scorecard-action/blob/main/docs/authentication/fine-grained-auth-token.md'
-    details: null
   - name: Security-Policy
     score: 0
     reason: security policy file not detected
@@ -228,7 +228,7 @@ checks:
       - 'Warn: 0 commits out of 27 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:48:15+00:00
+  collectedAt: 2026-09-07T19:35:51+00:00
   platform:
     darwin/arm64:
       name:  asciigraph_0.10.0_Darwin_arm64.tar.gz
