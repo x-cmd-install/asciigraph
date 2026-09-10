@@ -23,11 +23,25 @@ x install asciigraph
 - **Latest**: `v0.10.0` (2026-06-21)
 - **Last commit**: 2026-06-21
 - **Assets in release**: 10
-- **Published**: 2026-06-21T18:00:31Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [asciigraph_0.10.0_Darwin_arm64.tar.gz](https://github.com/guptarohit/asciigraph/releases/download/v0.10.0/asciigraph_0.10.0_Darwin_arm64.tar.gz) | 768.4 KiB | `native/darwin/arm64` |
+| [asciigraph_0.10.0_Darwin_x86_64.tar.gz](https://github.com/guptarohit/asciigraph/releases/download/v0.10.0/asciigraph_0.10.0_Darwin_x86_64.tar.gz) | 803.2 KiB | `native/darwin/x64` |
+| [asciigraph_0.10.0_Linux_arm64.tar.gz](https://github.com/guptarohit/asciigraph/releases/download/v0.10.0/asciigraph_0.10.0_Linux_arm64.tar.gz) | 721.6 KiB | `native/linux/arm64` |
+| [asciigraph_0.10.0_Linux_armv6.tar.gz](https://github.com/guptarohit/asciigraph/releases/download/v0.10.0/asciigraph_0.10.0_Linux_armv6.tar.gz) | 737.9 KiB | `native/linux/arm` |
+| [asciigraph_0.10.0_Linux_i386.tar.gz](https://github.com/guptarohit/asciigraph/releases/download/v0.10.0/asciigraph_0.10.0_Linux_i386.tar.gz) | 741.9 KiB | `native/linux/x86` |
+| [asciigraph_0.10.0_Linux_x86_64.tar.gz](https://github.com/guptarohit/asciigraph/releases/download/v0.10.0/asciigraph_0.10.0_Linux_x86_64.tar.gz) | 771.7 KiB | `native/linux/x64` |
+| [asciigraph_0.10.0_sha512-checksums.txt](https://github.com/guptarohit/asciigraph/releases/download/v0.10.0/asciigraph_0.10.0_sha512-checksums.txt) | 1.5 KiB | `other` |
+| [asciigraph_0.10.0_Windows_arm64.zip](https://github.com/guptarohit/asciigraph/releases/download/v0.10.0/asciigraph_0.10.0_Windows_arm64.zip) | 830.8 KiB | `native/win/arm64` |
+| [asciigraph_0.10.0_Windows_i386.zip](https://github.com/guptarohit/asciigraph/releases/download/v0.10.0/asciigraph_0.10.0_Windows_i386.zip) | 874.5 KiB | `native/win/x64` |
+| [asciigraph_0.10.0_Windows_x86_64.zip](https://github.com/guptarohit/asciigraph/releases/download/v0.10.0/asciigraph_0.10.0_Windows_x86_64.zip) | 902.8 KiB | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 3,090 · **Forks**: 123 · **Open issues**: 29 · **Contributors**: 18
+- **Stars**: 3,091 · **Forks**: 123 · **Open issues**: 29 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -67,8 +81,8 @@ Lowest-scoring checks:
 Install metadata for asciigraph lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `asciigraph` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/asciigraph.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/asciigraph.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:37:39Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:49:09Z._

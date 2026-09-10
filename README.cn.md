@@ -4,7 +4,7 @@
 
 Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 
-![asciigraph](https://repo.x-cmd.io/asciigraph.svg)
+![asciigraph](https://repo.x-cmd.io/asciigraph.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,25 @@ x install asciigraph
 - **最新版本**: `v0.10.0` (2026-06-21)
 - **最近提交**: 2026-06-21
 - **Release 含资产**: 10 个
-- **发布时间**: 2026-06-21T18:00:31Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [asciigraph_0.10.0_Darwin_arm64.tar.gz](https://github.com/guptarohit/asciigraph/releases/download/v0.10.0/asciigraph_0.10.0_Darwin_arm64.tar.gz) | 768.4 KiB | `native/darwin/arm64` |
+| [asciigraph_0.10.0_Darwin_x86_64.tar.gz](https://github.com/guptarohit/asciigraph/releases/download/v0.10.0/asciigraph_0.10.0_Darwin_x86_64.tar.gz) | 803.2 KiB | `native/darwin/x64` |
+| [asciigraph_0.10.0_Linux_arm64.tar.gz](https://github.com/guptarohit/asciigraph/releases/download/v0.10.0/asciigraph_0.10.0_Linux_arm64.tar.gz) | 721.6 KiB | `native/linux/arm64` |
+| [asciigraph_0.10.0_Linux_armv6.tar.gz](https://github.com/guptarohit/asciigraph/releases/download/v0.10.0/asciigraph_0.10.0_Linux_armv6.tar.gz) | 737.9 KiB | `native/linux/arm` |
+| [asciigraph_0.10.0_Linux_i386.tar.gz](https://github.com/guptarohit/asciigraph/releases/download/v0.10.0/asciigraph_0.10.0_Linux_i386.tar.gz) | 741.9 KiB | `native/linux/x86` |
+| [asciigraph_0.10.0_Linux_x86_64.tar.gz](https://github.com/guptarohit/asciigraph/releases/download/v0.10.0/asciigraph_0.10.0_Linux_x86_64.tar.gz) | 771.7 KiB | `native/linux/x64` |
+| [asciigraph_0.10.0_sha512-checksums.txt](https://github.com/guptarohit/asciigraph/releases/download/v0.10.0/asciigraph_0.10.0_sha512-checksums.txt) | 1.5 KiB | `other` |
+| [asciigraph_0.10.0_Windows_arm64.zip](https://github.com/guptarohit/asciigraph/releases/download/v0.10.0/asciigraph_0.10.0_Windows_arm64.zip) | 830.8 KiB | `native/win/arm64` |
+| [asciigraph_0.10.0_Windows_i386.zip](https://github.com/guptarohit/asciigraph/releases/download/v0.10.0/asciigraph_0.10.0_Windows_i386.zip) | 874.5 KiB | `native/win/x64` |
+| [asciigraph_0.10.0_Windows_x86_64.zip](https://github.com/guptarohit/asciigraph/releases/download/v0.10.0/asciigraph_0.10.0_Windows_x86_64.zip) | 902.8 KiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 3,090 · **Fork**: 123 · **开放 issue**: 29 · **贡献者**: 18
+- **Star**: 3,091 · **Fork**: 123 · **开放 issue**: 29 · **贡献者**: 18
 
 ## 累计统计
 
@@ -71,4 +85,4 @@ asciigraph 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:37:40Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:49:09Z._
