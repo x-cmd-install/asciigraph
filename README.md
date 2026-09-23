@@ -4,7 +4,7 @@
 
 Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 
-[![x-cmd/install — asciigraph Code Quality Monitoring Repo Card](https://repo.x-cmd.io/asciigraph.svg)](https://x-cmd.com/install/asciigraph)
+[![x-cmd/install — asciigraph Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/asciigraph.svg)](https://x-cmd.com/install/asciigraph)
 
 ## Install
 
@@ -25,13 +25,13 @@ Total: **2,691** lines of code across **21** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.4 / 10**
+Overall score: **3.4 / 10**
 
 Lowest-scoring checks:
 
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (2/10) — Found 2/10 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 2 | 4 | 2 | 2 | 0 | 13 |
-| 360d | 2025-09-27 | 4 | 15 | 2 | 2 | 0 | 52 |
-| last720d | 2024-10-02 | 5 | 18 | 2 | 5 | 1 | 77 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 2 | 4 | 2 | 2 | 0 | 13 |
+| 360d | 2025-09-28 | 4 | 15 | 2 | 2 | 0 | 52 |
+| last720d | 2024-10-03 | 5 | 18 | 2 | 5 | 1 | 77 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for asciigraph lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:02:47Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:50:40Z._
