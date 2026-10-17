@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,099 · **Forks**: 125 · **Open issues**: 29 · **Contributors**: 18
+- **Stars**: 3,100 · **Forks**: 127 · **Open issues**: 29 · **Contributors**: 18
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 46 · **Open PRs**: 4 · **Closed issues**: 26 · **Open issues**: 3 · **Commits**: 196
+- **Releases**: 17 · **Merged PRs**: 46 · **Open PRs**: 5 · **Closed issues**: 26 · **Open issues**: 3 · **Commits**: 196
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-17 | 0 | 0 | 3 | 0 | 0 | 0 |
-| 90d | 2026-07-18 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last180d | 2026-04-19 | 1 | 3 | 4 | 0 | 0 | 13 |
-| 360d | 2025-10-21 | 4 | 14 | 4 | 2 | 0 | 50 |
-| last720d | 2024-10-26 | 5 | 17 | 4 | 5 | 1 | 74 |
+| 30d | 2026-09-17 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-08-18 | 0 | 0 | 4 | 0 | 0 | 0 |
+| 90d | 2026-07-19 | 0 | 0 | 5 | 0 | 0 | 0 |
+| last180d | 2026-04-20 | 1 | 3 | 5 | 0 | 0 | 13 |
+| 360d | 2025-10-22 | 4 | 14 | 5 | 2 | 0 | 50 |
+| last720d | 2024-10-27 | 4 | 17 | 5 | 5 | 1 | 72 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for asciigraph lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:25:26Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:17:33Z._
