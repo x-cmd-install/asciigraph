@@ -14,11 +14,11 @@ x install asciigraph
 
 ## Code insight
 
-Total: **2,691** lines of code across **21** files in the top 5 languages.
+Total: **2,717** lines of code across **21** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 2,608 | 264 | 274 | 14 |
+| Go | 2,634 | 265 | 276 | 14 |
 | Json | 58 | 0 | 0 | 1 |
 | Dockerfile | 25 | 0 | 1 | 2 |
 | Markdown | 0 | 374 | 202 | 4 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.10.0` (2026-06-21)
-- **Last commit**: 2026-06-21
+- **Last commit**: 2026-10-17
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 3,100 · **Forks**: 127 · **Open issues**: 29 · **Contributors**: 18
+- **Stars**: 3,100 · **Forks**: 131 · **Open issues**: 29 · **Contributors**: 19
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 46 · **Open PRs**: 5 · **Closed issues**: 26 · **Open issues**: 3 · **Commits**: 196
+- **Releases**: 17 · **Merged PRs**: 47 · **Open PRs**: 5 · **Closed issues**: 26 · **Open issues**: 3 · **Commits**: 197
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-08-18 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 90d | 2026-07-19 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last180d | 2026-04-20 | 1 | 3 | 5 | 0 | 0 | 13 |
-| 360d | 2025-10-22 | 4 | 14 | 5 | 2 | 0 | 50 |
-| last720d | 2024-10-27 | 4 | 17 | 5 | 5 | 1 | 72 |
+| 30d | 2026-09-18 | 0 | 1 | 3 | 0 | 0 | 0 |
+| last60d | 2026-08-19 | 0 | 1 | 4 | 0 | 0 | 0 |
+| 90d | 2026-07-20 | 0 | 1 | 5 | 0 | 0 | 0 |
+| last180d | 2026-04-21 | 1 | 4 | 5 | 0 | 0 | 0 |
+| 360d | 2025-10-23 | 4 | 15 | 5 | 2 | 0 | 0 |
+| last720d | 2024-10-28 | 4 | 18 | 5 | 5 | 1 | 73 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for asciigraph lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:17:33Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:25:25Z._
