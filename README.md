@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,100 · **Forks**: 125 · **Open issues**: 29 · **Contributors**: 19
+- **Stars**: 3,099 · **Forks**: 125 · **Open issues**: 29 · **Contributors**: 19
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 1 | 3 | 0 | 0 | 1 |
-| last60d | 2026-08-23 | 0 | 1 | 3 | 0 | 0 | 1 |
-| 90d | 2026-07-24 | 0 | 1 | 5 | 0 | 0 | 1 |
-| last180d | 2026-04-25 | 1 | 4 | 5 | 0 | 0 | 14 |
-| 360d | 2025-10-27 | 4 | 15 | 5 | 2 | 0 | 51 |
-| last720d | 2024-11-01 | 4 | 18 | 5 | 5 | 1 | 73 |
+| 30d | 2026-09-23 | 0 | 1 | 3 | 0 | 0 | 1 |
+| last60d | 2026-08-24 | 0 | 1 | 3 | 0 | 0 | 1 |
+| 90d | 2026-07-25 | 0 | 1 | 5 | 0 | 0 | 1 |
+| last180d | 2026-04-26 | 1 | 4 | 5 | 0 | 0 | 14 |
+| 360d | 2025-10-28 | 4 | 15 | 5 | 2 | 0 | 51 |
+| last720d | 2024-11-02 | 4 | 18 | 5 | 4 | 1 | 73 |
 
 ## Release assets
 
@@ -79,6 +79,15 @@ Lowest-scoring checks:
 | [asciigraph_0.10.0_Windows_i386.zip](https://github.com/guptarohit/asciigraph/releases/download/v0.10.0/asciigraph_0.10.0_Windows_i386.zip) | 874.5 KiB | `native/win/x64` |
 | [asciigraph_0.10.0_Windows_x86_64.zip](https://github.com/guptarohit/asciigraph/releases/download/v0.10.0/asciigraph_0.10.0_Windows_x86_64.zip) | 902.8 KiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **16** distros on [repology.org](https://repology.org/project/asciigraph). **2** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Fedora rawhide | `0.10.0` | ✅ latest |
+| Nix unstable | `0.10.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for asciigraph lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `asciigraph` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -88,4 +97,4 @@ Install metadata for asciigraph lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:35:42Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:39:59Z._
